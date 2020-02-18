@@ -1,0 +1,27 @@
+[2020-02-18 16:55:02.441] [sharedprocess] [info] main {"machineId":"a2c6cefb217bb2e931afb3e7f98f8077fd8f1573d072e2241e13841a788eda91","windowId":2}
+[2020-02-18 16:55:03.132] [sharedprocess] [info] Deleted from disk ms-python.python /home/narayanan/.vscode/extensions/ms-python.python-2020.1.58038
+[2020-02-18 16:55:04.632] [sharedprocess] [info] Installing extension: ms-vscode-remote.remote-containers
+[2020-02-18 16:55:04.633] [sharedprocess] [info] Installing extension: ms-vscode-remote.remote-ssh
+[2020-02-18 16:55:04.634] [sharedprocess] [info] Installing extension: ms-vscode-remote.remote-wsl
+[2020-02-18 16:55:05.235] [sharedprocess] [info] Downloaded extension: ms-vscode-remote.remote-wsl /tmp/0ba07916-fb24-4ca4-8278-507c6e259e56
+[2020-02-18 16:55:05.289] [sharedprocess] [info] Downloaded extension: ms-vscode-remote.remote-containers /tmp/09e10fde-011c-4c68-90ad-604479685bad
+[2020-02-18 16:55:05.360] [sharedprocess] [info] Extracted extension to /home/narayanan/.vscode/extensions/.ms-vscode-remote.remote-wsl-0.42.3: ms-vscode-remote.remote-wsl
+[2020-02-18 16:55:05.361] [sharedprocess] [info] Renamed to /home/narayanan/.vscode/extensions/ms-vscode-remote.remote-wsl-0.42.3
+[2020-02-18 16:55:05.362] [sharedprocess] [info] Installation completed. ms-vscode-remote.remote-wsl
+[2020-02-18 16:55:05.377] [sharedprocess] [info] Extensions installed successfully: ms-vscode-remote.remote-wsl
+[2020-02-18 16:55:05.764] [sharedprocess] [info] Downloaded extension: ms-vscode-remote.remote-ssh /tmp/da70ee25-d9c4-441c-9b58-cf6bf467bb6f
+[2020-02-18 16:55:06.139] [sharedprocess] [info] Extracted extension to /home/narayanan/.vscode/extensions/.ms-vscode-remote.remote-containers-0.101.0: ms-vscode-remote.remote-containers
+[2020-02-18 16:55:06.139] [sharedprocess] [info] Renamed to /home/narayanan/.vscode/extensions/ms-vscode-remote.remote-containers-0.101.0
+[2020-02-18 16:55:06.142] [sharedprocess] [info] Installation completed. ms-vscode-remote.remote-containers
+[2020-02-18 16:55:06.159] [sharedprocess] [info] Extensions installed successfully: ms-vscode-remote.remote-containers
+[2020-02-18 16:55:06.177] [sharedprocess] [info] Extracted extension to /home/narayanan/.vscode/extensions/.ms-vscode-remote.remote-ssh-0.49.0: ms-vscode-remote.remote-ssh
+[2020-02-18 16:55:06.178] [sharedprocess] [info] Renamed to /home/narayanan/.vscode/extensions/ms-vscode-remote.remote-ssh-0.49.0
+[2020-02-18 16:55:06.180] [sharedprocess] [info] Installation completed. ms-vscode-remote.remote-ssh
+[2020-02-18 16:55:06.190] [sharedprocess] [info] Extensions installed successfully: ms-vscode-remote.remote-ssh
+[2020-02-18 16:55:42.395] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-02-18 18:26:56.681] [sharedprocess] [info] Installing extension: knisterpeter.vscode-github
+[2020-02-18 18:26:57.267] [sharedprocess] [info] Downloaded extension: knisterpeter.vscode-github /tmp/01690fa6-b67d-482a-b1f3-728a6c8ed8ec
+[2020-02-18 18:26:58.497] [sharedprocess] [info] Extracted extension to /home/narayanan/.vscode/extensions/.knisterpeter.vscode-github-0.30.3: knisterpeter.vscode-github
+[2020-02-18 18:26:58.498] [sharedprocess] [info] Renamed to /home/narayanan/.vscode/extensions/knisterpeter.vscode-github-0.30.3
+[2020-02-18 18:26:58.499] [sharedprocess] [info] Installation completed. knisterpeter.vscode-github
+[2020-02-18 18:26:58.510] [sharedprocess] [info] Extensions installed successfully: knisterpeter.vscode-github

@@ -1,0 +1,1156 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git check-ignore -v -z --stdin
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show :src/app/@core/core.component.css
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/@core/core.component.css
+> git show :src/app/@core/core.component.html
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/@core/core.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/@core/core.component.ts
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/@core/core.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/@core/core.module.ts
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/@core/core.module.ts
+> git show :src/app/@core/module-import-guard.ts
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/@core/module-import-guard.ts
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/@core/core.module.ts
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/@core/core.module.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/@core/core.module.ts
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git show :src/app/@core/core.module.ts
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/@core/mock/mock-data.module.ts
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/@core/mock/mock-data.module.ts
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/@core/utils/index.ts
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/@core/utils/index.ts
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show :src/app/@theme/theme.component.css
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/@theme/theme.component.css
+> git show :src/app/@core/utils/index.ts
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/@core/utils/index.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/@theme/theme.component.html
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/@theme/theme.component.html
+> git show :src/app/@core/utils/index.ts
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/@core/utils/index.ts
+> git show :src/app/@theme/theme.component.ts
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/@theme/theme.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/@core/utils/index.ts
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/@core/utils/index.ts
+> git show :src/app/@theme/theme.module.ts
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/@theme/theme.module.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/@theme/theme.module.ts
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git show :src/app/@theme/theme.module.ts
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/app-routing.module.ts
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/app-routing.module.ts
+> git cat-file -s 06c734263e1716e120bbb2771845eca1ae74c055
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show :src/app/@theme/pages/pages.component.css
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/@theme/pages/pages.component.css
+> git show :src/app/@theme/pages/pages.component.scss
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/@theme/pages/pages.component.scss
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/@theme/pages/pages.component.ts
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/@theme/pages/pages.component.ts
+> git show :src/app/@theme/pages/pages.module.ts
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/@theme/pages/pages.module.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git check-ignore -v -z --stdin
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/@theme/pages/pages.routing.ts
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/@theme/pages/pages.routing.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git check-ignore -v -z --stdin
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show :src/app/@theme/pages/miscellaneous/miscellaneous.component.css
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/@theme/pages/miscellaneous/miscellaneous.component.css
+> git show :src/app/@theme/pages/pages.routing.ts
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/@theme/pages/pages.routing.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/@theme/pages/miscellaneous/miscellaneous.component.html
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/@theme/pages/miscellaneous/miscellaneous.component.html
+> git show :src/app/@theme/pages/pages.routing.ts
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/@theme/pages/pages.routing.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/@theme/pages/miscellaneous/miscellaneous.component.ts
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/@theme/pages/miscellaneous/miscellaneous.component.ts
+> git show :src/app/@theme/pages/miscellaneous/miscellaneous.module.ts
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/@theme/pages/miscellaneous/miscellaneous.module.ts
+> git show :src/app/@theme/pages/miscellaneous/miscellaneous.component.ts
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/@theme/pages/miscellaneous/miscellaneous.component.ts
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/@theme/pages/miscellaneous/miscellaneous.component.ts
+> git show :src/app/@theme/pages/miscellaneous/miscellaneous.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git check-ignore -v -z --stdin
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/@theme/pages/miscellaneous/miscellaneous.routing.ts
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/@theme/pages/miscellaneous/miscellaneous.routing.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git check-ignore -v -z --stdin
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show :src/app/@theme/pages/miscellaneous/not-found/not-found.component.css
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/@theme/pages/miscellaneous/not-found/not-found.component.css
+> git show :src/app/@theme/pages/miscellaneous/not-found/not-found.component.scss
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/@theme/pages/miscellaneous/not-found/not-found.component.scss
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/@theme/pages/miscellaneous/not-found/not-found.component.spec.ts
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/@theme/pages/miscellaneous/not-found/not-found.component.spec.ts
+> git show :src/app/@theme/pages/pages.routing.ts
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/@theme/pages/pages.routing.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/@theme/pages/miscellaneous/not-found/not-found.component.ts
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/@theme/pages/miscellaneous/not-found/not-found.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/@theme/pages/miscellaneous/not-found/not-found.component.html
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/@theme/pages/miscellaneous/not-found/not-found.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/@theme/pages/miscellaneous/not-found/not-found.component.ts
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/@theme/pages/miscellaneous/not-found/not-found.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/@theme/pages/miscellaneous/not-found/not-found.component.scss
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/@theme/pages/miscellaneous/not-found/not-found.component.scss
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/@theme/pages/miscellaneous/miscellaneous.routing.ts
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/@theme/pages/miscellaneous/miscellaneous.routing.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/@theme/pages/miscellaneous/miscellaneous.module.ts
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/@theme/pages/miscellaneous/miscellaneous.module.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/app-routing.module.ts
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/app-routing.module.ts
+> git cat-file -s 06c734263e1716e120bbb2771845eca1ae74c055
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/pages/pages.routing.ts
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/pages/pages.routing.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/pages/pages.module.ts
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/pages/pages.module.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show :src/app/pages/miscellaneous/miscellaneous.module.ts
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/pages/miscellaneous/miscellaneous.module.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/app-routing.module.ts
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/app-routing.module.ts
+> git cat-file -s 06c734263e1716e120bbb2771845eca1ae74c055
+> git show :src/app/app.module.ts
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/app.module.ts
+> git cat-file -s 2c3ba2995c8510c02ca812f90280146738f162cf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/app.component.scss
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/app.component.scss
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show :src/app/app.module.ts
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/app.module.ts
+> git cat-file -s 2c3ba2995c8510c02ca812f90280146738f162cf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/app.component.html
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/app.component.html
+> git cat-file -s 7feacadc636ddabaee087a1457fb3cbeb8222e55
+> git show :src/app/app.module.ts
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/app.module.ts
+> git cat-file -s 2c3ba2995c8510c02ca812f90280146738f162cf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/app.component.ts
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/app.component.ts
+> git cat-file -s 938fceb2bc5578c76b668994bd2458a95d457ec0
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/pages/pages.component.html
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/pages/pages.component.html
+> git show :src/app/pages/pages.routing.ts
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/pages/pages.routing.ts
+> git show :src/app/pages/pages.module.ts
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/pages/pages.module.ts
+> git show :src/app/pages/pages.component.ts
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/pages/pages.component.ts
+> git show :src/app/pages/pages.component.scss
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/pages/pages.component.scss
+> git show :src/app/pages/pages.component.html
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/pages/pages.component.html
+> git show :src/app/app.component.ts
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/app.component.ts
+> git cat-file -s 938fceb2bc5578c76b668994bd2458a95d457ec0
+> git show :src/app/pages/pages.component.html
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/pages/pages.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/pages/miscellaneous/miscellaneous.component.ts
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/pages/miscellaneous/miscellaneous.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/app.module.ts
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/app.module.ts
+> git cat-file -s 2c3ba2995c8510c02ca812f90280146738f162cf
+> git show :src/app/app.component.ts
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/app.component.ts
+> git cat-file -s 938fceb2bc5578c76b668994bd2458a95d457ec0
+> git show :src/index.html
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/index.html
+> git cat-file -s bf9593ca810c1c5fc0eafeb06a8179742c00c528
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/pages/miscellaneous/miscellaneous.routing.ts
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/pages/miscellaneous/miscellaneous.routing.ts
+> git check-ignore -v -z --stdin
+> git show :src/app/pages/miscellaneous/not-found/not-found.component.html
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/pages/miscellaneous/not-found/not-found.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/pages/pages.component.html
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/pages/pages.component.html
+> git show :src/app/pages/pages.component.ts
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/pages/pages.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/pages/miscellaneous/not-found/not-found.component.html
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/pages/miscellaneous/not-found/not-found.component.html
+> git show :src/app/pages/miscellaneous/not-found/not-found.component.ts
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/pages/miscellaneous/not-found/not-found.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/@theme/bootstrap.modules.ts
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/@theme/bootstrap.modules.ts
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/@theme/theme.module.ts
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/@theme/theme.module.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :angular.json
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/angular.json
+> git cat-file -s 3f548a918ee97b9fbc8324535e7791f26ae7d8ef
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/@theme/bootstrap.modules.ts
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/@theme/bootstrap.modules.ts
+> git show :src/app/@theme/theme.module.ts
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/@theme/theme.module.ts
+> git show :src/app/@theme/bootstrap.modules.ts
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/@theme/bootstrap.modules.ts
+> git show :src/app/@theme/theme.module.ts
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/@theme/theme.module.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/app.module.ts
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/app.module.ts
+> git cat-file -s 2c3ba2995c8510c02ca812f90280146738f162cf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/@theme/theme.module.ts
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/@theme/theme.module.ts
+> git show :src/app/app.module.ts
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/app.module.ts
+> git cat-file -s 2c3ba2995c8510c02ca812f90280146738f162cf
+> git show :src/app/@theme/theme.module.ts
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/@theme/theme.module.ts
+> git show :src/app/app.module.ts
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/app.module.ts
+> git cat-file -s 2c3ba2995c8510c02ca812f90280146738f162cf
+> git show :src/app/@theme/theme.module.ts
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/@theme/theme.module.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/app.module.ts
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/app.module.ts
+> git cat-file -s 2c3ba2995c8510c02ca812f90280146738f162cf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :angular.json
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/angular.json
+> git cat-file -s 3f548a918ee97b9fbc8324535e7791f26ae7d8ef
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/@theme/theme.module.ts
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/@theme/theme.module.ts
+> git show :src/app/pages/miscellaneous/not-found/not-found.component.html
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/pages/miscellaneous/not-found/not-found.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :package.json
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/package.json
+> git cat-file -s 38a25d4b51ce9a0da03a126335a749446a85c73f
+> git show :angular.json
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/angular.json
+> git cat-file -s 3f548a918ee97b9fbc8324535e7791f26ae7d8ef
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show :src/app/@theme/components/toolbar/toolbar.component.ts
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/@theme/components/toolbar/toolbar.component.ts
+> git show :src/app/@theme/components/toolbar/toolbar.component.css
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/@theme/components/toolbar/toolbar.component.css
+> git show :angular.json
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/angular.json
+> git cat-file -s 3f548a918ee97b9fbc8324535e7791f26ae7d8ef
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/@theme/components/toolbar/toolbar.component.spec.ts
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/@theme/components/toolbar/toolbar.component.spec.ts
+> git show :angular.json
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/angular.json
+> git cat-file -s 3f548a918ee97b9fbc8324535e7791f26ae7d8ef
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/@theme/components/toolbar/toolbar.component.ts
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/@theme/components/toolbar/toolbar.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/@theme/components/toolbar/toolbar.component.html
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/@theme/components/toolbar/toolbar.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/pages/pages.component.html
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/pages/pages.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/pages/pages.component.ts
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/pages/pages.component.ts
+> git show :src/app/pages/pages.module.ts
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/pages/pages.module.ts
+> git show :src/app/pages/pages.routing.ts
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/pages/pages.routing.ts
+> git show :src/app/pages/pages.module.ts
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/pages/pages.module.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/pages/pages.module.ts
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git show :src/app/pages/pages.module.ts
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show :src/app/@theme/components/index.ts
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/@theme/components/index.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/@theme/theme.module.ts
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/@theme/theme.module.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/pages/pages.component.html
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/pages/pages.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -v -z --stdin
+> git config --get commit.template
+> git show :src/app/@theme/styles/style.scss
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/@theme/styles/style.scss
+> git show :src/styles.scss
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/styles.scss
+> git cat-file -s 90d4ee0072ce3fc41812f8af910219f9eea3c3de
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/@theme/styles/_layout.scss
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/@theme/styles/_layout.scss
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/@theme/styles/style.scss
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/@theme/styles/style.scss
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/@theme/components/toolbar/toolbar.component.html
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/@theme/components/toolbar/toolbar.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/@theme/components/toolbar/toolbar.component.html
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/@theme/components/toolbar/toolbar.component.html
+> git show :src/app/@theme/components/toolbar/toolbar.component.html
+> git ls-files --stage -- /mnt/f73f0d37-3eca-4802-af89-b4e522943499/Office/PROJECTS/ONE/hmi/src/app/@theme/components/toolbar/toolbar.component.html
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git add -A -- .
